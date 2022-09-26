@@ -63,7 +63,6 @@
 //        return result;
 //    }
 //};
-/c/Users/github-tata/.ssh/id_rsa
 //$g 小朋友  $s 饼干
 
 function findContentChildren($g,$s){
