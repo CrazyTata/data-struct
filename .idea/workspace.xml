@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5d236f1-ff11-481f-b694-80a5faf4f492" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/greedy/findContentChildren.php" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/findContentChildren.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deque.php" beforeDir="false" afterPath="$PROJECT_DIR$/queue/deque.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/fourSum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threeSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/threeSum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twoSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/twoSum.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +69,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/greedy/findContentChildren.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="1674">
               <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
             </state>
           </provider>
@@ -204,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1551" />
     <option name="y" value="140" />
     <option name="width" value="1936" />
@@ -238,11 +241,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\service\tata\guazai\docker-vip\www\php\data-struct\array" />
+      <recent name="D:\service\tata\guazai\docker-vip\www\php\data-struct\queue" />
       <recent name="D:\service\tata\guazai\docker-vip\www\php\tata\stack" />
       <recent name="D:\service\tata\guazai\docker-vip\www\php\tata\array" />
       <recent name="D:\service\tata\guazai\docker-vip\www\php\tata\string" />
-      <recent name="D:\service\tata\guazai\docker-vip\www\php\tata\link" />
-      <recent name="D:\service\tata\guazai\docker-vip\www\php\tata\sort" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,16 +271,15 @@
       <option name="presentableId" value="Default" />
       <updated>1663055810187</updated>
       <workItem from="1663055811954" duration="85190000" />
-      <workItem from="1664160946118" duration="97000" />
+      <workItem from="1664160946118" duration="791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85287000" />
+    <option name="totallyTimeSpent" value="85981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="80" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -403,7 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deque.php">
+    <entry file="file://$PROJECT_DIR$/queue/deque.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
@@ -580,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/greedy/findContentChildren.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="1674">
           <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
         </state>
       </provider>
